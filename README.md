@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tslater89
-- 👀 I’m interested in web development and mobile development
-- 🌱 I’m currently learning web development via FreeCodeCamp
-- 💞️ I’m looking to collaborate on any HTML/CSS/JS projects to help build experience
+- 👀 I’m interested in cybersecurity and penetration testing
+- 🌱 I’m currently obtaining my BS in Cybersecurity
+- 💞️ I’m looking to collaborate on any CTFs or projects to gain experience
 - 📫 How to reach me ...
 
 <!---
